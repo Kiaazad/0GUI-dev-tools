@@ -21,7 +21,6 @@ init python:
 screen dev_tools_s:
     style_prefix "dev_tools"
     zorder 1100
-    use dev_tools_keys
     drag:
         align(1.0, 0.0) offset(-100, 100)
         frame:
