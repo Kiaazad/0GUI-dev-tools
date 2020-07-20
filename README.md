@@ -2,7 +2,7 @@
 dev tools are a series of tools I've wrote to help me with the Ren'py developement, specially with the screens and minigames.
 
 How to install:
-  put the script files into your game folder, perfably a folder for all of the tools you might add.
+  put the script files into your game folder, preferably a folder for all of the tools you might add.
   
 ## How to use:
   you need to add "dev tools.rpy" to your game then you can press ~ buttin (under Esc) to toggle the menu containing all of the tools you've added to your game.
